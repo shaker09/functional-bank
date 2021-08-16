@@ -1,3 +1,4 @@
+//functional bank created  
 function getInputValue (inputId){
     const InputFiled = document.getElementById(inputId);
     const inputAmountText = InputFiled.value;
